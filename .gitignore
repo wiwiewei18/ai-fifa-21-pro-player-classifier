@@ -1,0 +1,10 @@
+/temp/*
+!/temp/.gitkeep
+
+/datasets/preprocessed/*
+!/datasets/preprocessed/.gitkeep
+
+/datasets/processed/*
+!/datasets/processed/.gitkeep
+
+__pycache__/
